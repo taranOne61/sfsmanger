@@ -1,0 +1,63 @@
+# Игнорируем файлы конфигурации среды разработки
+*.pyc
+__pycache__
+.DS_Store
+
+# Логи и временные файлы
+logs/
+tmp/
+
+# Конфигурационные файлы IDE
+.idea/
+.vscode/
+
+# Бинарники и сборки
+build/
+dist/
+
+# Скрытые файлы операционной системы
+.*sw*
+*~
+
+# Пустые файлы базы данных SQLite
+*.db
+
+# Кэширование пакетов Python
+*.egg-info/
+pip-selfcheck.json
+
+# Конфиденциальная информация и настройки
+.env
+config.ini
+secrets.yaml
+
+# Автоматически генерируемые файлы
+outputs/*
+results/*
+
+# Локальные данные пользователей
+user_data/
+profiles/
+
+# Каталоги и файлы для хранения временных данных
+temp/
+cache/
+data_cache/
+
+# Папка для временных тестов
+test_results/
+coverage.xml
+.coverage
+.noseids
+pytest-cache/
+htmlcov/
+
+# Файл локальных настроек терминала
+.localrc
+.bash_history
+.zsh_history
+
+# Специальные каталоги и файлы вашей структуры проекта
+templates.db
+details/blueprint.*
+details/*.txt

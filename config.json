@@ -1,0 +1,81 @@
+[ {
+        "name": "Fuel Tank",
+        "path": "./details/engine_module.json",
+        "description": "Бак 4×4"
+    },
+{
+        "name": "Strut",
+        "path": "./details/engine_module.json",
+        "description": "Балка структурная"
+    },
+{
+        "name": "Engine Hawk",
+        "path": "./details/engine_module.json",
+        "description": "Двигатель"
+    },
+{
+        "name": "Cone Round",
+        "path": "./details/engine_module.json",
+        "description": "Закруглённый Конус"
+    },
+{
+        "name": "Cone",
+        "path": "./details/engine_module.json",
+        "description": "Конус"
+    },
+{
+        "name": "Cone Side",
+        "path": "./details/engine_module.json",
+        "description": "Конус косой в право"
+    },
+{
+        "name": "Probe",
+        "path": "./details/engine_module.json",
+        "description": "Модуль"
+    },
+{
+        "name": "Fairing Cone Round",
+        "path": "./details/engine_module.json",
+        "description": "Обтекатель носовой"
+    },
+{
+        "name": "Fairing",
+        "path": "./details/engine_module.json",
+        "description": "Обтекатель средняя часть"
+    },
+{
+        "name": "Side Fuselage",
+        "path": "./details/engine_module.json",
+        "description": "Полуконус острый"
+    },
+{
+        "name": "RCS",
+        "path": "./details/engine_module.json",
+        "description": "РСУ"
+    },
+{
+        "name": "Solar Array 3",
+        "path": "./details/engine_module.json",
+        "description": "Солнечная панель большая"
+    },
+{
+        "name": "Solar Array 2",
+        "path": "./details/engine_module.json",
+        "description": "Солнечная панель малая"
+    },
+{
+        "name": "Docking Port",
+        "path": "./details/engine_module.json",
+        "description": "Шлюз большой"
+    },
+{
+        "name": "Docking Port",
+        "path": "./details/engine_module.json",
+        "description": "Шлюз малый"
+    },
+{
+        "name": "Docking Port",
+        "path": "./details/engine_module.json",
+        "description": "Шлюз средний"
+    },   
+]
